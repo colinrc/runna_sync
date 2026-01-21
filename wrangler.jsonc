@@ -1,0 +1,29 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "runna_sync",
+	"main": "src/runna_sync.py",
+	"compatibility_date": "2025-11-02",
+	"compatibility_flags": [
+		"python_workers"
+	],
+	"observability": {
+		"enabled": true
+	},
+	"env": {
+		"dev": {
+			"triggers": {
+				"crons": [
+					"*/5 * * * *"
+				]
+			}
+		},			
+		"production": {
+			"triggers": {
+				"crons": [
+					"* 6 * * *"
+				]
+			}
+		}
+
+	}
+}

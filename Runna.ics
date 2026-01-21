@@ -1,0 +1,716 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Runna
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+DTSTART:20251214T205525Z
+DTEND:20251214T220435Z
+DTSTAMP:20251226T055704Z
+UID:garmin-21258976204
+CREATED:20251214T221428Z
+DESCRIPTION:📊 Summary:\nDistance: 10.66km\nTime: 1:07:11\nAvg Pace: 6:18 /
+ km\n\n📋 Description:\n10km easy run at a conversational pace (no faster th
+ an 6:05/km). This is a limit\, not a target - run at whatever pace feels tr
+ uly easy!\n\n🏆 PBs:\n5km: 30:48\n5mi: 50:05\n10km: 1:03:33\n\n📲 View in t
+ he Runna app: https://club.runna.com/n9Tx/activities?activityId=garmin-2125
+ 8976204
+LAST-MODIFIED:20251214T232843Z
+LOCATION:Wynnum\, Australia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏃 10km Easy Run
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_6_LONG_RUN_0
+CREATED:20251214T112109Z
+DESCRIPTION:Long Run • 19km • 1h50m - 2h0m\n\n19km at a conversational pace
+ \n\n📲 View in the Runna app: https://club.runna.com/n9Tx/workout?dayId=9a4
+ b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_6_LONG_RUN_0&weekIndex=6
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:🏃 19km Hilly Long Run • 19km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_11_LONG_RUN_0
+CREATED:20251214T112115Z
+DESCRIPTION:Long Run • 22km • 2h0m - 2h10m\n\n6km at a conversational pace\
+ n11km at 5:25/km (your target 30km pace)\n5km at a conversational pace\n\n
+ 📲 View in the Runna app: https://club.runna.com/n9Tx/workout?dayId=9a4b98b
+ 5-5f8b-42f0-9f01-a171f350312d_plan_week_11_LONG_RUN_0&weekIndex=11
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:🏃 22km Race Practice Long Run • 22km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260226
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_11_EASY_RUN_0
+CREATED:20251214T112113Z
+DESCRIPTION:Easy Run • 10km • 55m - 1h10m\n\n10km easy run at a conversatio
+ nal pace (no faster than 5:55/km). This is a limit\, not a target - run at 
+ whatever pace feels truly easy!\n\n📲 View in the Runna app: https://club.r
+ unna.com/n9Tx/workout?dayId=9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_
+ 11_EASY_RUN_0&weekIndex=11
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:🏃 10km Easy Run • 10km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_7_LONG_RUN_0
+CREATED:20251214T112117Z
+DESCRIPTION:Long Run • 21.1km • 1h50m - 2h10m\n\n5km at a conversational pa
+ ce\n3km at 5:45/km\n3km at 5:40/km\n5km at 5:55/km\n3km at 5:45/km\n2.1km a
+ t 5:40/km\n\n📲 View in the Runna app: https://club.runna.com/n9Tx/workout?
+ dayId=9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_7_LONG_RUN_0&weekIndex
+ =7
+LAST-MODIFIED:20251226T055555Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:🏃 Half Marathon Hilly Progressive Repeat Long Run • 21.1km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_3_EASY_RUN_1
+CREATED:20251214T232137Z
+DESCRIPTION:Easy Run • 9km • 50m - 1h0m\n\n9km easy run at a conversational
+  pace (no faster than 6:00/km). This is a limit\, not a target - run at wha
+ tever pace feels truly easy!\n\n📲 View in the Runna app: https://club.runn
+ a.com/n9Tx/workout?dayId=9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_3_E
+ ASY_RUN_1&weekIndex=3
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:🏃 9km Easy Run • 9km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_12_LONG_RUN_0
+CREATED:20251214T112109Z
+DESCRIPTION:Long Run • 17km • 1h30m - 1h50m\n\n17km at a conversational pac
+ e\n\n📲 View in the Runna app: https://club.runna.com/n9Tx/workout?dayId=9a
+ 4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_12_LONG_RUN_0&weekIndex=12
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:🏃 17km Long Run • 17km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_5_LONG_RUN_0
+CREATED:20251214T112114Z
+DESCRIPTION:Long Run • 18km • 1h40m - 1h50m\n\n3.5km at a conversational pa
+ ce\n4km at 5:25/km (your target 30km pace)\n3km at a conversational pace\n4
+ km at 5:25/km (your target 30km pace)\n3.5km at a conversational pace\n\n📲
+  View in the Runna app: https://club.runna.com/n9Tx/workout?dayId=9a4b98b5-
+ 5f8b-42f0-9f01-a171f350312d_plan_week_5_LONG_RUN_0&weekIndex=5
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:🏃 18km Race Practice Long Run • 18km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_6_EASY_RUN_0
+CREATED:20251214T112109Z
+DESCRIPTION:Easy Run • 12km • 1h10m - 1h20m\n\n12km easy run at a conversat
+ ional pace (no faster than 6:00/km). This is a limit\, not a target - run a
+ t whatever pace feels truly easy!\n\n📲 View in the Runna app: https://club
+ .runna.com/n9Tx/workout?dayId=9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_wee
+ k_6_EASY_RUN_0&weekIndex=6
+LAST-MODIFIED:20251226T055555Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:🏃 12km Easy Run • 12km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251220T211348Z
+DTEND:20251220T224738Z
+DTSTAMP:20251226T055704Z
+UID:strava-16797359701
+CREATED:20251220T225115Z
+DESCRIPTION:📊 Summary:\nDistance: 15.08km\nTime: 1:32:18\nAvg Pace: 6:07 /
+ km\n\n📋 Description:\n3.5km at a conversational pace\n3.5km at 6:00/km\n3.
+ 5km at 5:50/km\n3.5km at 5:40/km\n1km at a conversational pace\n\n♻️ Laps:\
+ n3.50 km @ 6:41 /km\n3.50 km @ 6:17 /km\n3.50 km @ 5:55 /km\n3.50 km @ 5:43
+  /km\n1.00 km @ 7:09 /km\n0.08 km @ 5:41 /km\n🏆 PBs:\n5mi: 47:16\n10km: 59
+ :44\n\n📲 View in the Runna app: https://club.runna.com/n9Tx/activities?act
+ ivityId=strava-16797359701
+LAST-MODIFIED:20251220T231436Z
+LOCATION:Wynnum\, Australia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏃 15km Hilly Progressive Long Run
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251230
+DTEND;VALUE=DATE:20251231
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_3_EASY_RUN_0
+CREATED:20251214T112109Z
+DESCRIPTION:Easy Run • 10km • 1h0m - 1h10m\n\n10km easy run at a conversati
+ onal pace (no faster than 6:00/km). This is a limit\, not a target - run at
+  whatever pace feels truly easy!\n\n📲 View in the Runna app: https://club.
+ runna.com/n9Tx/workout?dayId=9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week
+ _3_EASY_RUN_0&weekIndex=3
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:🏃 10km Easy Run • 10km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251228
+DTEND;VALUE=DATE:20251229
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_2_LONG_RUN_0
+CREATED:20251214T112117Z
+DESCRIPTION:Long Run • 16km • 1h30m - 1h40m\n\n16km at a conversational pac
+ e\n\n📲 View in the Runna app: https://club.runna.com/n9Tx/workout?dayId=9a
+ 4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_2_LONG_RUN_0&weekIndex=2
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:🏃 16km Hilly Long Run • 16km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251222T212541Z
+DTEND:20251222T222641Z
+DTSTAMP:20251226T055704Z
+UID:strava-16815022888
+CREATED:20251222T223257Z
+DESCRIPTION:📊 Summary:\nDistance: 9.43km\nTime: 1:00:14\nAvg Pace: 6:23 /k
+ m\n\n📋 Description:\n2km warm up at a conversational pace (no faster than 
+ 6:05/km)\, 90s walking rest\n\n5 reps of:\n• 1km at 5:00/km (4:50-5:10/km)\
+ , 90s walking rest\n\n2km cool down at a conversational pace (or slower!)\n
+ \n♻️ Laps:\n2.00 km @ 7:01 /km\n0.25 km @ 6:06 /km\n1.00 km @ 5:04 /km\n0.2
+ 1 km @ 7:09 /km\n1.00 km @ 5:00 /km\n0.16 km @ 9:21 /km\n1.00 km @ 4:54 /km
+ \n0.12 km @ 12:31 /km\n1.00 km @ 4:56 /km\n0.14 km @ 10:45 /km\n1.00 km @ 5
+ :08 /km\n0.10 km @ 14:44 /km\n1.44 km @ 8:15 /km\n0.01 km @ 10:13 /km\n🏆 P
+ Bs:\n5km: 27:37\n\n📲 View in the Runna app: https://club.runna.com/n9Tx/ac
+ tivities?activityId=strava-16815022888
+LAST-MODIFIED:20251222T232139Z
+LOCATION:Wynnum\, Australia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏃 1km Repeats
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260108
+DTEND;VALUE=DATE:20260109
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_4_EASY_RUN_0
+CREATED:20251214T112113Z
+DESCRIPTION:Easy Run • 7.5km • 45m - 50m\n\n7.5km easy run at a conversatio
+ nal pace (no faster than 6:00/km). This is a limit\, not a target - run at 
+ whatever pace feels truly easy!\n\n📲 View in the Runna app: https://club.r
+ unna.com/n9Tx/workout?dayId=9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_
+ 4_EASY_RUN_0&weekIndex=4
+LAST-MODIFIED:20251226T055556Z
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:🏃 7.5km Easy Run • 7.5km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_8_INTERVALS_0
+CREATED:20251214T112109Z
+DESCRIPTION:Intervals • 8.9km • 50m - 1h0m\n\n2.8km warm up at a conversati
+ onal pace\, add 3x 15s fast bursts towards the end of your warm up jog to i
+ nject some pace into your legs before the main session!\, 90s walking rest\
+ n\n3 reps of:\n• 1km at 4:50/km\n• 200m at 4:20/km\, 120s walking rest\n\n2
+ .5km cool down at a conversational pace (or slower!)\n\n📲 View in the Runn
+ a app: https://club.runna.com/n9Tx/workout?dayId=9a4b98b5-5f8b-42f0-9f01-a1
+ 71f350312d_plan_week_8_INTERVALS_0&weekIndex=8
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:🏃 K200s • 8.9km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_10_INTERVALS_0
+CREATED:20251214T232144Z
+DESCRIPTION:Intervals • 8km • 45m - 55m\n\n1.6km warm up at a conversationa
+ l pace (no faster than 5:55/km)\, 90s walking rest\n\n3 reps of:\n• 1.6km a
+ t 4:55/km (4:45-5:05/km)\, 120s walking rest\n\n1.6km cool down at a conver
+ sational pace (or slower!)\n\n📲 View in the Runna app: https://club.runna.
+ com/n9Tx/workout?dayId=9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_10_IN
+ TERVALS_0&weekIndex=10
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:🏃 Mile Repeats • 8km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260120T210000Z
+DTEND:20260120T215000Z
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_6_TEMPO_0
+CREATED:20251214T112109Z
+DESCRIPTION:Tempo • 8km • 45m - 50m\n\n2km warm up at a conversational pace
+  (no faster than 6:00/km)\n\nRepeat the following 5x:\n----------\n400m at 
+ 4:55/km\n400m at 5:40/km\n----------\n\n90s walking rest\n\n2km cool down a
+ t a conversational pace (or slower!)\n\n📲 View in the Runna app: https://c
+ lub.runna.com/n9Tx/workout?dayId=9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_
+ week_6_TEMPO_0&weekIndex=6
+LAST-MODIFIED:20251218T075626Z
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:🏃 Rolling 400s • 8km
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_5_EASY_RUN_0
+CREATED:20251214T112115Z
+DESCRIPTION:Easy Run • 10km • 1h0m - 1h10m\n\n10km easy run at a conversati
+ onal pace (no faster than 6:00/km). This is a limit\, not a target - run at
+  whatever pace feels truly easy!\n\n📲 View in the Runna app: https://club.
+ runna.com/n9Tx/workout?dayId=9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week
+ _5_EASY_RUN_0&weekIndex=5
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:🏃 10km Easy Run • 10km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_8_LONG_RUN_0
+CREATED:20251214T112109Z
+DESCRIPTION:Long Run • 23km • 2h10m - 2h20m\n\n23km at a conversational pac
+ e\n\n📲 View in the Runna app: https://club.runna.com/n9Tx/workout?dayId=9a
+ 4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_8_LONG_RUN_0&weekIndex=8
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:🏃 23km Long Run • 23km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260129
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_7_EASY_RUN_0
+CREATED:20251214T112116Z
+DESCRIPTION:Easy Run • 10km • 55m - 1h10m\n\n10km easy run at a conversatio
+ nal pace (no faster than 5:55/km). This is a limit\, not a target - run at 
+ whatever pace feels truly easy!\n\n📲 View in the Runna app: https://club.r
+ unna.com/n9Tx/workout?dayId=9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_
+ 7_EASY_RUN_0&weekIndex=7
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:🏃 10km Easy Run • 10km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_7_EASY_RUN_1
+CREATED:20251214T232142Z
+DESCRIPTION:Easy Run • 9km • 50m - 55m\n\n9km easy run at a conversational 
+ pace (no faster than 5:55/km). This is a limit\, not a target - run at what
+ ever pace feels truly easy!\n\n📲 View in the Runna app: https://club.runna
+ .com/n9Tx/workout?dayId=9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_7_EA
+ SY_RUN_1&weekIndex=7
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:🏃 9km Easy Run • 9km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260312
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_13_EASY_RUN_0
+CREATED:20251214T112117Z
+DESCRIPTION:Easy Run • 10km • 55m - 1h0m\n\n10km easy run at a conversation
+ al pace (no faster than 5:50/km). This is a limit\, not a target - run at w
+ hatever pace feels truly easy!\n\n📲 View in the Runna app: https://club.ru
+ nna.com/n9Tx/workout?dayId=9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_1
+ 3_EASY_RUN_0&weekIndex=13
+LAST-MODIFIED:20251226T055558Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:🏃 10km Easy Run • 10km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_12_EASY_RUN_0
+CREATED:20251214T112109Z
+DESCRIPTION:Easy Run • 10km • 55m - 1h0m\n\n10km easy run at a conversation
+ al pace (no faster than 5:50/km). This is a limit\, not a target - run at w
+ hatever pace feels truly easy!\n\n📲 View in the Runna app: https://club.ru
+ nna.com/n9Tx/workout?dayId=9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_1
+ 2_EASY_RUN_0&weekIndex=12
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:🏃 10km Easy Run • 10km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251217T203908Z
+DTEND:20251217T212804Z
+DTSTAMP:20251226T055704Z
+UID:garmin-21284941787
+CREATED:20251217T213048Z
+DESCRIPTION:📊 Summary:\nDistance: 7.65km\nTime: 48:56\nAvg Pace: 6:23 /km\
+ n\n📋 Description:\n3km warm up at a conversational pace (no faster than 6:
+ 05/km)\n\nRepeat the following 5x:\n----------\n300m at 5:00/km\n300m at 5:
+ 45/km\n----------\n\n90s walking rest\n\n1.6km cool down at a conversationa
+ l pace (or slower!)\n\n♻️ Laps:\n3.00 km @ 6:29 /km\n0.30 km @ 4:41 /km\n0.
+ 30 km @ 5:44 /km\n0.30 km @ 4:57 /km\n0.30 km @ 5:41 /km\n0.30 km @ 4:47 /k
+ m\n0.30 km @ 5:44 /km\n0.30 km @ 4:37 /km\n0.30 km @ 5:49 /km\n0.30 km @ 4:
+ 39 /km\n0.30 km @ 5:48 /km\n0.03 km @ 43:24 /km\n1.60 km @ 7:34 /km\n0.01 k
+ m @ 7:18 /km\n🏆 PBs:\n5km: 28:15\n\n📲 View in the Runna app: https://club
+ .runna.com/n9Tx/activities?activityId=garmin-21284941787
+LAST-MODIFIED:20251217T213050Z
+LOCATION:Wynnum\, Australia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏃 Rolling 300s
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_9_EASY_RUN_0
+CREATED:20251214T112109Z
+DESCRIPTION:Easy Run • 8km • 45m - 50m\n\n8km easy run at a conversational 
+ pace (no faster than 5:55/km). This is a limit\, not a target - run at what
+ ever pace feels truly easy!\n\n📲 View in the Runna app: https://club.runna
+ .com/n9Tx/workout?dayId=9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_9_EA
+ SY_RUN_0&weekIndex=9
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:🏃 8km Easy Run • 8km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_8_EASY_RUN_0
+CREATED:20251214T112113Z
+DESCRIPTION:Easy Run • 10km • 55m - 1h10m\n\n10km easy run at a conversatio
+ nal pace (no faster than 5:55/km). This is a limit\, not a target - run at 
+ whatever pace feels truly easy!\n\n📲 View in the Runna app: https://club.r
+ unna.com/n9Tx/workout?dayId=9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_
+ 8_EASY_RUN_0&weekIndex=8
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:🏃 10km Easy Run • 10km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260314
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_13_EASY_RUN_1
+CREATED:20251214T112109Z
+DESCRIPTION:Easy Run • 9km • 50m - 55m\n\n9km easy run at a conversational 
+ pace (no faster than 5:50/km). This is a limit\, not a target - run at what
+ ever pace feels truly easy!\n\n📲 View in the Runna app: https://club.runna
+ .com/n9Tx/workout?dayId=9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_13_E
+ ASY_RUN_1&weekIndex=13
+LAST-MODIFIED:20251226T055555Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:🏃 9km Easy Run • 9km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260103
+DTEND;VALUE=DATE:20260104
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_3_LONG_RUN_0
+CREATED:20251214T112109Z
+DESCRIPTION:Long Run • 17km • 1h30m - 1h50m\n\n4.5km at a conversational pa
+ ce\n11.5km at 5:45/km\n1km at a conversational pace\n\n📲 View in the Runna
+  app: https://club.runna.com/n9Tx/workout?dayId=9a4b98b5-5f8b-42f0-9f01-a17
+ 1f350312d_plan_week_3_LONG_RUN_0&weekIndex=3
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:🏃 17km Block Long Run • 17km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260228
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_11_EASY_RUN_1
+CREATED:20251214T232141Z
+DESCRIPTION:Easy Run • 9km • 50m - 55m\n\n9km easy run at a conversational 
+ pace (no faster than 5:55/km). This is a limit\, not a target - run at what
+ ever pace feels truly easy!\n\n📲 View in the Runna app: https://club.runna
+ .com/n9Tx/workout?dayId=9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_11_E
+ ASY_RUN_1&weekIndex=11
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:🏃 9km Easy Run • 9km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260303T210000Z
+DTEND:20260303T214500Z
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_12_TEMPO_0
+CREATED:20251214T112114Z
+DESCRIPTION:Tempo • 7.5km • 40m - 45m\n\n2km warm up at a conversational pa
+ ce (no faster than 5:50/km)\n\nRepeat the following 2x:\n----------\n1km at
+  5:15/km\n1km at 4:55/km\n----------\n\n90s walking rest\n\n1.5km cool down
+  at a conversational pace (or slower!)\n\n📲 View in the Runna app: https:/
+ /club.runna.com/n9Tx/workout?dayId=9a4b98b5-5f8b-42f0-9f01-a171f350312d_pla
+ n_week_12_TEMPO_0&weekIndex=12
+LAST-MODIFIED:20251218T075632Z
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:🏃 Over and Unders 1km • 7.5km
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251212T210013Z
+DTEND:20251212T212508Z
+DTSTAMP:20251226T055704Z
+UID:garmin-21241022268
+CREATED:20251214T112119Z
+DESCRIPTION:📊 Summary:\nDistance: 4.98km\nTime: 24:55\nAvg Pace: 4:59 /km\
+ n\n📋 Description:\n3km warm up at a conversational pace (no faster than 6:
+ 05/km)\n\nRepeat the following 5x:\n----------\n300m at 5:00/km\n300m at 5:
+ 45/km\n----------\n\n90s walking rest\n\n1.6km cool down at a conversationa
+ l pace (or slower!)\n\n🏆 PBs:\nKilometre: 4:49\nMile: 7:51\n2mi: 15:52\n\n
+ 📲 View in the Runna app: https://club.runna.com/n9Tx/activities?activityId
+ =garmin-21241022268
+LAST-MODIFIED:20251217T215603Z
+LOCATION:Wynnum\, Australia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏃 Rolling 300s
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260105T210000Z
+DTEND:20260105T214000Z
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_4_TEMPO_0
+CREATED:20251214T112109Z
+DESCRIPTION:Tempo • 6.5km • 35m - 40m\n\n1.5km warm up at a conversational 
+ pace (no faster than 6:00/km)\n\nRepeat the following 2x:\n----------\n1km 
+ at 5:35/km\n1km at 5:00/km\n----------\n\n90s walking rest\n\n1km cool down
+  at a conversational pace (or slower!)\n\n📲 View in the Runna app: https:/
+ /club.runna.com/n9Tx/workout?dayId=9a4b98b5-5f8b-42f0-9f01-a171f350312d_pla
+ n_week_4_TEMPO_0&weekIndex=4
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:🏃 On Off Ks • 6.5km
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_5_HILLS_0
+CREATED:20251214T112114Z
+DESCRIPTION:Hills • 8km • 50m - 55m\n\n1.8km warm up at a conversational pa
+ ce (no faster than 6:00/km)\, while jogging to base of hill\n\n11 reps of:\
+ n• 60s running hard uphill\, 30s walking rest. Easy jog back down.\n\n1.8km
+  cool down at a conversational pace (or slower!)\n\n📲 View in the Runna ap
+ p: https://club.runna.com/n9Tx/workout?dayId=9a4b98b5-5f8b-42f0-9f01-a171f3
+ 50312d_plan_week_5_HILLS_0&weekIndex=5
+LAST-MODIFIED:20251226T055555Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:🏃 Hill Repeats • 8km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251224T213431Z
+DTEND:20251224T224031Z
+DTSTAMP:20251226T055704Z
+UID:strava-16833049428
+CREATED:20251224T224646Z
+DESCRIPTION:📊 Summary:\nDistance: 10.00km\nTime: 1:04:45\nAvg Pace: 6:28 /
+ km\n\n📋 Description:\n9km easy run at a conversational pace (no faster tha
+ n 6:05/km). This is a limit\, not a target - run at whatever pace feels tru
+ ly easy!\n\n♻️ Laps:\n9.00 km @ 6:26 /km\n1.00 km @ 6:49 /km\n📲 View in th
+ e Runna app: https://club.runna.com/n9Tx/activities?activityId=strava-16833
+ 049428
+LAST-MODIFIED:20251224T230707Z
+LOCATION:Wynnum\, Australia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏃 9km Easy Run
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260210T210000Z
+DTEND:20260210T213500Z
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_9_TEMPO_0
+CREATED:20251216T085645Z
+DESCRIPTION:Tempo • 6km • 30m - 35m\n\n1km warm up at a conversational pace
+  (no faster than 5:55/km)\n\nRepeat the following 2x:\n----------\n1km at 5
+ :20/km\n1km at 5:00/km\n----------\n\n90s walking rest\n\n1km cool down at 
+ a conversational pace (or slower!)\n\n📲 View in the Runna app: https://clu
+ b.runna.com/n9Tx/workout?dayId=9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_we
+ ek_9_TEMPO_0&weekIndex=9
+LAST-MODIFIED:20251218T075626Z
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:🏃 Over and Unders 1km • 6km
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_10_EASY_RUN_0
+CREATED:20251214T112114Z
+DESCRIPTION:Easy Run • 10km • 55m - 1h10m\n\n10km easy run at a conversatio
+ nal pace (no faster than 5:55/km). This is a limit\, not a target - run at 
+ whatever pace feels truly easy!\n\n📲 View in the Runna app: https://club.r
+ unna.com/n9Tx/workout?dayId=9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_
+ 10_EASY_RUN_0&weekIndex=10
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:🏃 10km Easy Run • 10km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_10_LONG_RUN_0
+CREATED:20251214T112116Z
+DESCRIPTION:Long Run • 25km • 2h20m - 2h30m\n\n25km at a conversational pac
+ e\n\n📲 View in the Runna app: https://club.runna.com/n9Tx/workout?dayId=9a
+ 4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_10_LONG_RUN_0&weekIndex=10
+LAST-MODIFIED:20251226T055556Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:🏃 25km Long Run • 25km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_9_LONG_RUN_0
+CREATED:20251214T112117Z
+DESCRIPTION:Long Run • 11km • 1h0m - 1h10m\n\n11km at a conversational pace
+ \n\n📲 View in the Runna app: https://club.runna.com/n9Tx/workout?dayId=9a4
+ b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_9_LONG_RUN_0&weekIndex=9
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:🏃 11km Long Run • 11km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_14_RACE_0
+CREATED:20251214T112116Z
+DESCRIPTION:Race • 30km • 2h40m - 2h48m\n\n30km race at 5:20-5:35/km\n\n📲 
+ View in the Runna app: https://club.runna.com/n9Tx/workout?dayId=9a4b98b5-5
+ f8b-42f0-9f01-a171f350312d_plan_week_14_RACE_0&weekIndex=14
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:🏃 Noosa Ultra Trail • 30km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_4_LONG_RUN_0
+CREATED:20251214T112109Z
+DESCRIPTION:Long Run • 10km • 55m - 1h10m\n\n10km at a conversational pace\
+ n\n📲 View in the Runna app: https://club.runna.com/n9Tx/workout?dayId=9a4b
+ 98b5-5f8b-42f0-9f01-a171f350312d_plan_week_4_LONG_RUN_0&weekIndex=4
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:🏃 10km Long Run • 10km
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+DTSTAMP:20251226T055704Z
+UID:9a4b98b5-5f8b-42f0-9f01-a171f350312d_plan_week_13_LONG_RUN_0
+CREATED:20251214T112114Z
+DESCRIPTION:Long Run • 11km • 55m - 1h10m\n\n2km at a conversational pace\n
+ 3km at 5:30/km\n2km at 5:20/km\n3km at 5:30/km\n1km at 5:15/km\n\n📲 View i
+ n the Runna app: https://club.runna.com/n9Tx/workout?dayId=9a4b98b5-5f8b-42
+ f0-9f01-a171f350312d_plan_week_13_LONG_RUN_0&weekIndex=13
+LAST-MODIFIED:20251226T055550Z
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:🏃 11km Progressive Repeat Long Run • 11km
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

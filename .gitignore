@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+credentials.json
+archive/
+util scripts/
+.wrangler/
+node_modules/
+python_modules/
+runna_sync_egg-info/
+src/node_modules/
+uv.lock
+
+# Virtual environments
+.venv
+
+# Secrets
+.env

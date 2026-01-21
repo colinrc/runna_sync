@@ -1,0 +1,13 @@
+[project]
+name = "runna-sync"
+version = "0.1.0"
+description = "Sync Runna workouts to Intervals.icu"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "requests",
+    "python-dateutil"
+]
+
+[dependency-groups]
+dev = ["workers-py"]
