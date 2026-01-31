@@ -285,6 +285,7 @@ class RunnaTranslatorStateMachine:
 
         # hills-only fallback injection guard
         self.hills_fallback_added = False
+        self.cooldown_steps: set[int] = set()
 
     def _flush_current(self) -> None:
         if self.current.steps:
@@ -345,7 +346,9 @@ class RunnaTranslatorStateMachine:
         if allow_group_change and "cool down" in ll:
             self._start_group("Cooldown")
             dist = parse_distance(line) or "2m"
-            self._add_step(f"- {dist} ramp Z3-Z1 Pace", into_repeat=False)
+            step = f"- {dist} ramp Z3-Z1 Pace"
+            self._add_step(step, into_repeat=False)
+            self.cooldown_steps.add(id(step))
             return
 
         # Walking rest -> Z1 Pace (Walk replaced by Pace)
@@ -426,6 +429,7 @@ class RunnaTranslatorStateMachine:
         if dur:
             self._add_step(f"- {dur} Z1-Z2 Pace", into_repeat=into_repeat)
             return
+        
 
         # Unknown fragment
         self.partial = True
@@ -511,6 +515,7 @@ class RunnaTranslatorStateMachine:
             self._close_repeat_group()
 
         self._flush_current()
+        self._postprocess_trailing_cooldown()
 
         # Format: blank line between groups, no blank line between title and steps
         out: List[str] = []
@@ -524,7 +529,62 @@ class RunnaTranslatorStateMachine:
             return ("Main Set\n- 60m Z1-Z2 Pace", True)
 
         return ("\n".join(out).rstrip(), self.partial)
+    
+    def _postprocess_trailing_conversational_to_cooldown(self) -> None:
+        """
+        If the final step is conversational pace and not part of a repeat,
+        move it into a dedicated Cooldown group.
+        """
+        if not self.groups:
+            return
 
+        last_group = self.groups[-1]
+
+        # Only move from Main Set
+        if last_group.title != "Main Set":
+            return
+
+        if not last_group.steps:
+            return
+
+        last_step = last_group.steps[-1].lower()
+
+        if "conversational" not in last_step:
+            return
+
+        # Remove from Main Set
+        step = last_group.steps.pop()
+
+        # Drop empty Main Set if needed
+        if not last_group.steps:
+            self.groups.pop()
+
+        # Append new Cooldown group
+        self.groups.append(Group("Cooldown", [step]))
+
+
+    def _postprocess_trailing_cooldown(self) -> None:
+        if not self.groups:
+            return
+
+        last_group = self.groups[-1]
+        if last_group.title != "Main Set":
+            return
+
+        if not last_group.steps:
+            return
+
+        step = last_group.steps[-1]
+
+        if id(step) not in self.cooldown_steps:
+            return
+
+        # Move to Cooldown group
+        last_group.steps.pop()
+        if not last_group.steps:
+            self.groups.pop()
+
+        self.groups.append(Group("Cooldown", [step]))
 
 def translate_workout_to_intervals_text(workout_name: str, description: str) -> Tuple[str, bool]:
     sm = RunnaTranslatorStateMachine(workout_name, description)
