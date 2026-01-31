@@ -432,7 +432,7 @@ class RunnaTranslatorStateMachine:
         self._add_hills_fallback_if_needed()
 
     def translate(self) -> Tuple[str, bool]:
-        raw_lines = [clean_line(l) for l in (self.full_description or "").splitlines() if clean_line(l)]
+        raw_lines = [(l or "") for l in (self.full_description or "").splitlines()]
         if not raw_lines:
             return ("Main Set\n- 60m Z1-Z2 Pace", True)
 
@@ -451,10 +451,29 @@ class RunnaTranslatorStateMachine:
             return ("Main Set\n- 60m Z1-Z2 Pace", True)
 
         for ln in body_lines:
+            raw = ln
             ln = clean_line(ln)
-            if not ln or is_noise(ln):
+
+            # NEW RULE: blank line ends repeat block
+            if raw.strip() == "" and self.state in (
+                TState.REPEAT_OPEN,
+                TState.REPEAT_SEP_CAPTURE,
+                TState.REPEAT_SEP_WAIT_OPEN,
+            ):
+                self._close_repeat_group()
+                self.state = TState.NORMAL
                 continue
 
+            # ------------------------------------------------------------
+            # BLANK LINE TERMINATES REPEAT BLOCK
+            # ------------------------------------------------------------
+            if not ln and self.state in (TState.REPEAT_OPEN, TState.REPEAT_SEP_CAPTURE):
+                self._close_repeat_group()
+                self.state = TState.NORMAL
+                continue
+
+            if not ln or is_noise(ln):
+                continue
             # separators govern repeat capture
             if SEP_LINE_RE.match(ln):
                 if self.state == TState.REPEAT_SEP_WAIT_OPEN:
