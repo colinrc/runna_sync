@@ -1,0 +1,8 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+UID:test-rolling-400s
+DTSTART;VALUE=DATE:20260121
+SUMMARY:Rolling 400s
+DESCRIPTION:Rolling 400s\n\n3.5km warm up\n\nRepeat the following 6x:\n----------\n400m at 4:55/km\n400m at 5:40/km\n----------\n90s walking rest\n\n2.5km cool down
+END:VEVENT
+END:VCALENDAR

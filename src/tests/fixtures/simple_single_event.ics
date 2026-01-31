@@ -1,0 +1,8 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+UID:test-1
+DTSTART;VALUE=DATE:20260121
+SUMMARY:Easy Run • 10km
+DESCRIPTION:Easy Run • 10km\n\n10km easy run at a conversational pace.
+END:VEVENT
+END:VCALENDAR

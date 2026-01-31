@@ -1,0 +1,8 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+UID:test-hills
+DTSTART;VALUE=DATE:20260122
+SUMMARY:Hills • 8km
+DESCRIPTION:Hills • 8km\n\n11 reps of:\n60s running hard uphill, 30s walking rest. Easy jog back down.
+END:VEVENT
+END:VCALENDAR
